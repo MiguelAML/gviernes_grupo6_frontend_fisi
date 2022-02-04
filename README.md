@@ -11,6 +11,10 @@ Grupo 6
 
 - http://ec2-52-90-109-184.compute-1.amazonaws.com/#/
 
+## Video - Demo
+
+- https://youtu.be/8w59ssqOaz4
+
 ## Flutter
 
 - Flutter bloc
