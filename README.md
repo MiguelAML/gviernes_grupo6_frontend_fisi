@@ -7,6 +7,10 @@ Grupo 6
 
 - https://drive.google.com/drive/folders/1zTuPVimV2fv03rJciv9yDXWG2eTASL19?usp=sharing
 
+## Web
+
+- http://ec2-52-90-109-184.compute-1.amazonaws.com/#/
+
 ## Flutter
 
 - Flutter bloc
