@@ -5,7 +5,7 @@ Grupo 6
 
 ## APK
 
-- https://drive.google.com/drive/folders/1zTuPVimV2fv03rJciv9yDXWG2eTASL19?usp=sharing
+- https://drive.google.com/file/d/1JFbNBmd2rp0Ivohu4lTJ0jxjzoaj34Ps/view?usp=sharing
 
 ## Web
 
@@ -15,11 +15,14 @@ Grupo 6
 
 - https://youtu.be/8w59ssqOaz4
 
+## Guía instalación
+
+- https://drive.google.com/file/d/1y4wztxg5JS_JOjEBx2tV6gkIaBP2Tk-o/view?usp=sharing
+
 ## Flutter
 
 - Flutter bloc
 - Socket io client
-- Push notifications (Next)
 - http
 
 ## Backend - NodeJs
